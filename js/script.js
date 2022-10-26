@@ -63,15 +63,15 @@ const speaker = [
 
 speaker.forEach((data) => {
   render += `<div class="speakers-container">
-	<div class="speaker-image">
-		<img src="${data.image}" alt="Speaker image">
-	</div>
-	<div class="details">
-		<h2>${data.title}</h2>
-		<p class="speaker-position">${data.position}</p>
-		<hr>
-		<p class="about-speaker">${data.description}</p>
-	</div>
+<div class="speaker-image">
+<img src="${data.image}" alt="Speaker image">
+</div>
+<div class="details">
+<h2>${data.title}</h2>
+<p class="speaker-position">${data.position}</p>
+<hr>
+<p class="about-speaker">${data.description}</p>
+</div>
 </div>`;
   speakerSection.innerHTML = render;
 });
@@ -91,10 +91,11 @@ function scrollFunction() {
   }
 }
 
+window.onscroll = () => { scrollFunction(); };
+
 // When the user clicks on the button, scroll to the top of the document
-const topFunction = () => {
+
+mybutton.addEventListener('click', () => {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
-};
-
-window.onscroll = () => { scrollFunction(); };
+});
