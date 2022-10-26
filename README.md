@@ -24,7 +24,6 @@ page;
 
 - Clone the project using this link:
 	https://github.com/mrbhi/Capstone-Project
-  https://github.com/yonas44/Microverse_capstone-1
 
 ### Deployment
 
