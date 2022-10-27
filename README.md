@@ -10,7 +10,7 @@
 ## Getting Started
 
 For this project i designed a website with two pages a homepage and an about
-page;
+page with the mobile and desktop version;
 
 - Homepage: Description about the homepage below;
   - Date and time of the summit.
