@@ -53,7 +53,7 @@
   }
 
   .headline {
-    background-image: url('/img/bg-img.jpeg');
+    background-image: url('/img/bkimag.png');
     background-repeat: no-repeat;
     width: 100%;
     display: flex;
@@ -92,7 +92,9 @@
 
   .mail {
     margin: 0 0 50px 0;
+    color: #272831;
     text-align: center;
+    font-weight: bolder;
   }
 
   .about-main {
@@ -326,6 +328,16 @@
 
   .menu-link {
     text-decoration: none;
+    color: #272831;
+  }
+
+  .menu-link:active {
+    color: #ec5242;
+  }
+
+  .menu-link:hover {
+    color: #ec5242;
+    border-bottom: solid 2px #ec5242;
   }
 
   .campaign1 {
@@ -339,7 +351,7 @@
   }
 
   .headline {
-    background-image: url('/img/bg-img.jpeg');
+    background-image: url('/img/bkimag.png');
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
@@ -358,7 +370,7 @@
 
   .about-headline h1 {
     font-size: 52px;
-    line-height: 70px;
+    line-height: 50px;
     text-align: center;
     color: #ec5242;
   }
@@ -378,7 +390,9 @@
   }
 
   .mail {
-    margin: 10px 0 50px 0;
+    margin: 0 0 50px 0;
+    color: #272831;
+    font-weight: bolder;
   }
 
   .about-main {
