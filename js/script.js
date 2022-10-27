@@ -24,37 +24,37 @@ let render = '';
 
 const speaker = [
   {
-    image: '../img/sp1.png',
+    image: './img/sp1.PNG',
     title: 'Bello Taofeeq Adeoye',
     position: 'Software Engineer, Full-Stack, Front-end Back-end',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In maiores repellat fuga ex vitae consequuntur!',
   },
   {
-    image: '../img/sp2.png',
+    image: './img/sp2.PNG',
     title: 'Adelugba Emmanuel',
     position: 'Software Engineer, Full-Stack, Front-end Back-end',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In maiores repellat fuga ex vitae consequuntur!',
   },
   {
-    image: '../img/sp3.png',
+    image: './img/sp3.PNG',
     title: 'Ogochukwu Anyanwu',
     position: 'Software Engineer, Full Front-end',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In maiores repellat fuga ex vitae consequuntur!',
   },
   {
-    image: '../img/sp4.png',
+    image: './img/sp4.PNG',
     title: 'Fulis Abdi Riyana',
     position: 'Software Engineer, Full-Stack, Front-end Back-end',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In maiores repellat fuga ex vitae consequuntur!',
   },
   {
-    image: '../img/sp5.png',
+    image: './img/sp5.PNG',
     title: 'Zuhra Ashimi',
     position: 'Software Engineer, Full-Stack, Front-end Back-end',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In maiores repellat fuga ex vitae consequuntur!',
   },
   {
-    image: '../img/sp6.png',
+    image: './img/sp6.PNG',
     title: 'Yonas Ken',
     position: 'Software Engineer, Full-Stack, Front-end Back-end',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In maiores repellat fuga ex vitae consequuntur!',
