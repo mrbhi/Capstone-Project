@@ -53,7 +53,7 @@
   }
 
   .headline {
-    background-image: url('/img/bkimag.png');
+    background-image: url('../img/bkimag.png');
     background-repeat: no-repeat;
     width: 100%;
     display: flex;
@@ -163,7 +163,7 @@
 
   .summit-1 {
     margin-bottom: 20px;
-    background-image: url('/img/summit1.jpg');
+    background-image: url('../img/summit1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 350px;
@@ -175,7 +175,7 @@
   }
 
   .summit-2 {
-    background-image: url('/img/summit2.jpg');
+    background-image: url('../img/summit2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 350px;
@@ -351,7 +351,7 @@
   }
 
   .headline {
-    background-image: url('/img/bkimag.png');
+    background-image: url('../img/bkimag.png');
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
@@ -460,7 +460,7 @@
   }
 
   .summit-1 {
-    background-image: url('/img/summit1.jpg');
+    background-image: url('../img/summit1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 350px;
@@ -472,7 +472,7 @@
   }
 
   .summit-2 {
-    background-image: url('/img/summit2.jpg');
+    background-image: url('../img/summit2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 350px;
