@@ -1,6 +1,6 @@
 # Capstone-Project
 
-> Web development course capstone project module 1 
+> Web development course Capstone project module 1 
 
 ## Built With
 

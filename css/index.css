@@ -97,6 +97,7 @@
 
   .main-program {
     background-image: linear-gradient(rgba(40, 43, 50, 0.9), rgba(40, 43, 50, 0.9)), url('../img/program.jpg');
+    background-size: cover;
     width: 100%;
     display: flex;
     justify-content: center;
