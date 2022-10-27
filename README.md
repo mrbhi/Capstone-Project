@@ -32,7 +32,7 @@ page with the mobile and desktop version;
 ### Video Description
 
 - Here you can watch a
-  [Video](https://www.loom.com/share/a957a1c646f243eb90c2a8788e35493e) of me
+  [Video](https://www.loom.com/share/1c74a93305fb493abb72ce4e0e12f365) of me
   describing my project😊.
 
 ## Authors

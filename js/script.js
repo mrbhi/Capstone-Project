@@ -76,7 +76,7 @@ speaker.forEach((data) => {
   speakerSection.innerHTML = render;
 });
 
-// Scrool To Top
+// Scroll To Top
 
 // Get the button
 const mybutton = document.querySelector('.myBtn');
